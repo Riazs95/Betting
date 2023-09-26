@@ -1,0 +1,1889 @@
+.group-child {
+  position: absolute;
+  top: 14.64px;
+  left: 11.26px;
+  border-radius: 18px;
+  width: 126.5px;
+  height: 91px;
+}
+.rb {
+  position: relative;
+  background: linear-gradient(134.38deg, #d913ea, rgba(232, 11, 251, 0)),
+    linear-gradient(-1.29deg, #17f061, rgba(23, 240, 97, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.rb-wrapper {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+.vector-parent {
+  position: absolute;
+  top: 0;
+  left: 32px;
+  width: 126.5px;
+  height: 103px;
+}
+.real-betting,
+.real-betting-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.real-betting {
+  position: relative;
+  width: 198px;
+  flex-shrink: 0;
+}
+.real-betting-wrapper {
+  position: absolute;
+  top: 93px;
+  left: calc(50% - 109px);
+  flex-direction: row;
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+}
+.bet-and-win {
+  position: absolute;
+  top: 134px;
+  left: 99px;
+  font-size: 10px;
+  color: #9e29b1;
+}
+.frame-child,
+.frame-item {
+  position: relative;
+  width: 15px;
+  height: 15px;
+}
+.frame-item {
+  margin-left: -2px;
+}
+.star-parent {
+  position: absolute;
+  top: 133px;
+  left: 29px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.group-parent {
+  position: absolute;
+  top: 415px;
+  left: 120px;
+  width: 218px;
+  height: 148px;
+}
+.welcome-to-the {
+  position: absolute;
+  top: 205px;
+  left: calc(50% - 169px);
+  font-size: 16px;
+  color: #1820d9;
+}
+.iphone-14-pro-max-1 {
+  position: relative;
+  border-radius: 11px;
+  width: 430px;
+  height: 932px;
+  overflow: hidden;
+  flex-shrink: 0;
+  background-image: url(./public/iphone-14-pro-max--1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: 64px;
+  color: #034694;
+  font-family: Warnes;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 156px);
+  border-radius: 10px;
+  background-color: #fff;
+  width: 312px;
+  height: 47px;
+}
+.icon-eye {
+  position: absolute;
+  height: 31.91%;
+  width: 6.41%;
+  top: 34.04%;
+  right: 3.85%;
+  bottom: 34.04%;
+  left: 89.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 452px;
+  left: calc(50% - 156px);
+  width: 312px;
+  height: 47px;
+}
+.vector-group {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  width: 126.5px;
+  height: 103px;
+}
+.real-betting-container,
+.real-betting1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.real-betting1 {
+  position: relative;
+  width: 171px;
+  flex-shrink: 0;
+}
+.real-betting-container {
+  position: absolute;
+  top: 93px;
+  left: calc(50% - 95.5px);
+  flex-direction: row;
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+}
+.bet-and-win1 {
+  position: absolute;
+  top: 134px;
+  left: 87px;
+  font-size: 10px;
+  color: #9e29b1;
+}
+.star-group {
+  position: absolute;
+  top: 133px;
+  left: 17px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.group-container {
+  position: absolute;
+  top: 84px;
+  left: 131px;
+  width: 191px;
+  height: 148px;
+  font-size: 64px;
+  color: #034694;
+  font-family: Warnes;
+}
+.sign-into-your {
+  position: absolute;
+  top: 309px;
+  left: calc(50% - 88px);
+}
+.icon-person {
+  position: absolute;
+  height: 16.85%;
+  width: 4.81%;
+  top: 17.98%;
+  right: 92.63%;
+  bottom: 65.17%;
+  left: 2.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.password,
+.usarname {
+  position: absolute;
+  top: 16px;
+  left: 38px;
+}
+.password {
+  top: 70px;
+  left: 37px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 396px;
+  left: calc(50% - 156px);
+  width: 312px;
+  height: 89px;
+  color: #625f5f;
+}
+.icon-lock-locked {
+  position: absolute;
+  height: 1.61%;
+  width: 2.99%;
+  top: 50.21%;
+  right: 80.5%;
+  bottom: 48.18%;
+  left: 16.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.forget-your-password {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 124px;
+  height: 13px;
+  flex-shrink: 0;
+}
+.frame-child7 {
+  position: relative;
+  border-radius: 2px;
+  background-color: #d9d9d9;
+  border: 0.5px solid #034694;
+  box-sizing: border-box;
+  width: 10px;
+  height: 10px;
+}
+.remember-me {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 87px;
+  height: 13px;
+  flex-shrink: 0;
+}
+.forget-your-password-parent,
+.rectangle-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 11px;
+}
+.forget-your-password-parent {
+  position: absolute;
+  top: 562px;
+  left: calc(50% - 152px);
+  gap: 72px;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.7);
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: #772fdb;
+  width: 312px;
+  height: 31px;
+}
+.log-in {
+  position: relative;
+}
+.log-in-wrapper {
+  top: 0;
+  left: 126px;
+  background-color: #772fdb;
+  width: 60px;
+  height: 29px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.group-div,
+.log-in-wrapper,
+.or {
+  position: absolute;
+}
+.group-div {
+  top: 513px;
+  left: 59px;
+  width: 312px;
+  height: 31px;
+  font-size: 12px;
+  color: #fff;
+}
+.or {
+  top: 634px;
+  left: calc(50% - 17px);
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.frame-child8 {
+  position: relative;
+  background-color: #929393;
+  width: 36px;
+  height: 3px;
+}
+.frame-div {
+  position: absolute;
+  top: 646px;
+  left: calc(50% - 56px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 39px;
+}
+.download-lprmwlom8-transformed-icon,
+.image-30-icon {
+  position: relative;
+  width: 48.95px;
+  height: 50px;
+  object-fit: cover;
+}
+.image-30-icon {
+  border-radius: 70px;
+  width: 50px;
+}
+.download-lprmwlom8-transformed-parent {
+  position: absolute;
+  top: 677px;
+  left: calc(50% - 67px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.sign-up {
+  position: relative;
+  font-size: 20px;
+  color: #1893d8;
+}
+.dont-have-account-yet-parent {
+  position: absolute;
+  top: 844px;
+  left: calc(50% - 142px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.iphone-14-pro-max-2 {
+  position: relative;
+  border-radius: 11px;
+  background-color: #e4ebfd;
+  width: 430px;
+  height: 932px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.vector-container {
+  position: absolute;
+  top: 0;
+  left: 39px;
+  width: 126.5px;
+  height: 103px;
+}
+.real-betting-frame,
+.real-betting2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.real-betting2 {
+  position: relative;
+  width: 203px;
+  flex-shrink: 0;
+}
+.real-betting-frame {
+  position: absolute;
+  top: 93px;
+  left: calc(50% - 111.5px);
+  flex-direction: row;
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+}
+.bet-and-win2 {
+  position: absolute;
+  top: 134px;
+  left: 106px;
+  font-size: 10px;
+  color: #9e29b1;
+}
+.star-container {
+  position: absolute;
+  top: 133px;
+  left: 36px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.group-parent1 {
+  position: absolute;
+  top: 62px;
+  left: 113px;
+  width: 223px;
+  height: 148px;
+  font-size: 64px;
+  color: #034694;
+  font-family: Warnes;
+}
+.skip {
+  position: relative;
+  color: #18d82b;
+}
+.sign-up-parent {
+  position: absolute;
+  top: 258px;
+  left: calc(50% - 154px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 219px;
+  font-size: 16px;
+  color: #1893d8;
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 173.5px);
+  border-radius: 10px;
+  background-color: #fff;
+  width: 347px;
+  height: 45px;
+}
+.username {
+  position: absolute;
+  top: calc(50% - 8.5px);
+  left: calc(50% - 138.5px);
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 366px;
+  left: calc(50% - 173px);
+  width: 347px;
+  height: 45px;
+}
+.rectangle-parent2,
+.rectangle-parent3,
+.rectangle-parent4,
+.rectangle-parent5 {
+  position: absolute;
+  top: 421px;
+  left: calc(50% - 173px);
+  width: 347px;
+  height: 45px;
+}
+.rectangle-parent3,
+.rectangle-parent4,
+.rectangle-parent5 {
+  top: 476px;
+}
+.rectangle-parent4,
+.rectangle-parent5 {
+  top: 531px;
+}
+.rectangle-parent5 {
+  top: 586px;
+}
+.icon-map-marker,
+.icon-person1 {
+  position: absolute;
+  height: 2.15%;
+  width: 4.65%;
+  top: 40.56%;
+  right: 84.42%;
+  bottom: 57.3%;
+  left: 10.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-map-marker {
+  width: 3.49%;
+  top: 46.57%;
+  right: 84.88%;
+  bottom: 51.29%;
+  left: 11.63%;
+}
+.icon-envelope-closed,
+.icon-eye1,
+.icon-eye2,
+.icon-lock-locked1,
+.icon-lock-locked2 {
+  position: absolute;
+  height: 2.15%;
+  width: 3.99%;
+  top: 58.15%;
+  right: 83.92%;
+  bottom: 39.7%;
+  left: 12.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-envelope-closed,
+.icon-eye1,
+.icon-eye2,
+.icon-lock-locked2 {
+  top: 64.16%;
+  bottom: 33.69%;
+}
+.icon-envelope-closed,
+.icon-eye1,
+.icon-eye2 {
+  height: 1.61%;
+  width: 4.65%;
+  top: 58.48%;
+  right: 13.02%;
+  bottom: 39.91%;
+  left: 82.33%;
+}
+.icon-envelope-closed,
+.icon-eye2 {
+  top: 64.48%;
+  bottom: 33.91%;
+}
+.icon-envelope-closed {
+  top: 52.79%;
+  right: 83.72%;
+  bottom: 45.6%;
+  left: 11.63%;
+}
+.or1 {
+  position: absolute;
+  top: 649px;
+  left: calc(50% - 17px);
+  font-size: 24px;
+}
+.download-lprmwlom8-transformed-group,
+.rectangle-parent6 {
+  position: absolute;
+  top: 661px;
+  left: calc(50% - 55px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 39px;
+}
+.download-lprmwlom8-transformed-group {
+  top: 692px;
+  left: calc(50% - 67px);
+  gap: 36px;
+}
+.login {
+  position: relative;
+  font-size: 16px;
+  color: #1499a2;
+}
+.do-you-already-have-an-account-parent {
+  position: absolute;
+  top: 889px;
+  left: calc(50% - 151px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+  font-size: 15px;
+  color: #000;
+}
+.iphone-14-pro-max-3 {
+  position: relative;
+  border-radius: 11px;
+  background-color: #e4ebfd;
+  width: 430px;
+  height: 932px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.icon-menu,
+.icon-person2 {
+  position: absolute;
+  height: 2.68%;
+  width: 6.67%;
+  top: -44.31%;
+  right: 168.53%;
+  bottom: 141.63%;
+  left: -75.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-person2 {
+  width: 5.81%;
+  top: -54.94%;
+  right: -8.22%;
+  bottom: 152.25%;
+  left: 102.41%;
+}
+.icon-menu2 {
+  position: relative;
+  width: 28.7px;
+  height: 25px;
+}
+.group-child7 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 152.5px);
+  border-radius: 10px;
+  background-color: #fff;
+  width: 305px;
+  height: 25px;
+}
+.icon-magnifying-glass {
+  position: absolute;
+  height: 60%;
+  width: 4.92%;
+  top: 20%;
+  right: 93.11%;
+  bottom: 20%;
+  left: 1.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search-by-event {
+  position: absolute;
+  top: 6px;
+  left: 30px;
+  font-weight: 300;
+}
+.group-icon,
+.rectangle-parent7 {
+  position: relative;
+  width: 305px;
+  height: 25px;
+}
+.group-icon {
+  width: 40px;
+  height: 40px;
+}
+.icon-menu-parent {
+  position: absolute;
+  top: 30px;
+  left: calc(50% - 203px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 10px;
+}
+.top-event {
+  position: relative;
+  font-weight: 600;
+}
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 40px;
+  background-color: rgba(255, 75, 0, 0.8);
+  width: 41px;
+  height: 20px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 1px;
+  left: 22px;
+  border-radius: 50%;
+  background-color: #fff;
+  width: 18px;
+  height: 18px;
+}
+.rectangle-parent8 {
+  position: relative;
+  width: 41px;
+  height: 20px;
+}
+.live-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+  font-size: 15px;
+  color: #2a6bcb;
+  font-family: Inter;
+}
+.top-event-parent {
+  position: absolute;
+  top: 125px;
+  left: calc(50% - 193px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 170px;
+  font-size: 24px;
+  font-family: Jura;
+}
+.group-child9 {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  border-radius: 2px;
+  background-color: #56ddbd;
+  width: 106px;
+  height: 32px;
+}
+.download-emf3dfb8t-transformed-icon {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 33.09px;
+  height: 42px;
+  object-fit: cover;
+}
+.football {
+  position: absolute;
+  top: 11.9px;
+  left: 42.09px;
+  font-weight: 300;
+  display: inline-block;
+  width: 58.55px;
+  height: 24.23px;
+}
+.rectangle-parent9 {
+  position: relative;
+  width: 106px;
+  height: 42px;
+}
+.download-removebg-preview-2 {
+  position: relative;
+  width: 52.51px;
+  height: 50px;
+  object-fit: cover;
+}
+.download-2-icon,
+.download-3-icon,
+.download-removebg-preview-1 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.download-2-icon,
+.download-3-icon {
+  border-radius: 14px;
+  width: 51.56px;
+}
+.download-3-icon {
+  border-radius: 15px;
+  width: 49px;
+}
+.download-removebg-preview-2-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 22px;
+}
+.group-parent2,
+.world-cup {
+  position: absolute;
+  font-size: 15px;
+}
+.group-parent2 {
+  top: 186px;
+  left: calc(50% - 202px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 29px;
+}
+.world-cup {
+  top: 287px;
+  left: calc(50% - 35px);
+  font-weight: 300;
+}
+.download-removebg-preview-3,
+.download-removebg-preview-4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 71.43px;
+  height: 100px;
+  object-fit: cover;
+}
+.download-removebg-preview-4 {
+  left: 289.43px;
+  width: 68.63px;
+}
+.b1 {
+  position: relative;
+  font-size: 64px;
+}
+.parent {
+  position: absolute;
+  top: 13px;
+  left: calc(50% - 52.03px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 11px;
+  font-size: 48px;
+}
+.frame-child17 {
+  position: relative;
+  border-radius: 50%;
+  background-color: #ff4b00;
+  width: 10px;
+  height: 10px;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 100px;
+  left: calc(50% - 26.03px);
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+  color: #606060;
+}
+.ellipse-parent,
+.frame-parent,
+.wrapper {
+  display: flex;
+  flex-direction: row;
+}
+.wrapper {
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.5);
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+.frame-parent {
+  position: absolute;
+  top: 158px;
+  left: calc(50% - 169.03px);
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 113px;
+}
+.download-removebg-preview-3-parent {
+  position: absolute;
+  top: 313px;
+  left: 36px;
+  width: 358.06px;
+  height: 193px;
+}
+.ellipse-group,
+.group {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+}
+.group {
+  top: 0;
+  left: calc(50% - 48.5px);
+  align-items: flex-end;
+  justify-content: center;
+  gap: 11px;
+  font-size: 48px;
+}
+.ellipse-group {
+  top: 87px;
+  left: calc(50% - 25.5px);
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+  color: #606060;
+}
+.frame-container,
+.frame-group {
+  position: absolute;
+  left: calc(50% - 169.5px);
+}
+.frame-container {
+  top: 145px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 113px;
+}
+.frame-group {
+  top: 0;
+  width: 339px;
+  height: 180px;
+}
+.download-removebg-preview-5,
+.download-removebg-preview-6 {
+  position: absolute;
+  top: 8px;
+  left: 7px;
+  width: 76.95px;
+  height: 100px;
+  object-fit: cover;
+}
+.download-removebg-preview-5 {
+  left: 263.95px;
+  width: 74.62px;
+}
+.group-parent3 {
+  position: absolute;
+  top: 522px;
+  left: calc(50% - 169px);
+  width: 339px;
+  height: 180px;
+}
+.more {
+  position: relative;
+  font-weight: 300;
+}
+.more-wrapper {
+  position: absolute;
+  top: 706px;
+  left: 354px;
+  border-radius: 20px;
+  background-color: #f36b22;
+  width: 51px;
+  height: 19px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.images-1-icon,
+.images-2-icon,
+.images-3-icon {
+  position: relative;
+  border-radius: 11px;
+  width: 220px;
+  height: 116px;
+  object-fit: cover;
+  z-index: 0;
+}
+.images-1-icon,
+.images-3-icon {
+  z-index: 1;
+}
+.images-3-icon {
+  width: 206.45px;
+  z-index: 2;
+}
+.asia-cup {
+  position: absolute;
+  margin: 0 !important;
+  top: 71px;
+  left: 297px;
+  z-index: 3;
+}
+.images-2-parent {
+  border-radius: 11px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  gap: 2px;
+}
+.iphone-14-pro-max-4-inner {
+  position: absolute;
+  top: 765px;
+  left: 26px;
+  border-radius: 11px;
+  width: 220px;
+  height: 116px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 24px;
+  color: #fff;
+  font-family: "Irish Grover";
+}
+.see-all {
+  position: relative;
+  color: #1c416c;
+}
+.all-tournaments-and-events-parent {
+  position: absolute;
+  top: 732px;
+  left: calc(50% - 178px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 153px;
+}
+.iphone-14-pro-max-4-child {
+  position: absolute;
+  top: 889px;
+  left: -9px;
+  border-radius: 0 0 20px 20px;
+  background-color: #fff;
+  width: 447px;
+  height: 65px;
+}
+.news {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 26px;
+}
+.octiconflame-16-parent {
+  width: 26.93px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+}
+.dashiconsgames {
+  position: relative;
+  width: 29.8px;
+  height: 25px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.games {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 32px;
+}
+.dashiconsgames-parent {
+  width: 28.92px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 2px;
+  color: #e63946;
+}
+.my-bets {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 40px;
+}
+.ant-designdollar-circle-outli-parent {
+  width: 36.15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.my-profile {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 48px;
+}
+.bxuser-parent {
+  width: 43.38px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.frame-parent1,
+.upcoming {
+  position: absolute;
+  font-family: Exo;
+}
+.frame-parent1 {
+  top: 889px;
+  left: calc(50% - 183px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 77px;
+  font-size: 10px;
+  color: #1d3557;
+}
+.upcoming {
+  top: 99px;
+  left: 352px;
+  font-weight: 600;
+  color: #388f8a;
+}
+.iphone-14-pro-max-4 {
+  position: relative;
+  border-radius: 20px;
+  background-color: #e4ebfd;
+  width: 430px;
+  height: 932px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 12px;
+}
+.frame-parent2,
+.icon-menu-group {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.icon-menu-group {
+  top: 30px;
+  left: calc(50% - 203px);
+  justify-content: flex-start;
+  gap: 16px;
+  color: #000;
+  font-family: Inter;
+}
+.frame-parent2 {
+  top: 889px;
+  left: calc(50% - 183px);
+  justify-content: center;
+  gap: 77px;
+}
+.my-bets2 {
+  position: absolute;
+  top: 111px;
+  left: 25px;
+  font-size: 20px;
+  font-family: "Exo 2";
+}
+.bet-slip-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px 0 0 10px;
+  background-color: #00362d;
+  width: 165px;
+  height: 45px;
+}
+.bets-slip {
+  position: absolute;
+  top: 12px;
+  left: 49.89px;
+  font-weight: 500;
+  display: inline-block;
+  width: 65.14px;
+}
+.bet-slip,
+.frame-child20 {
+  position: relative;
+  width: 165px;
+  height: 45px;
+}
+.frame-child20 {
+  background-color: #dba111;
+  width: 45px;
+}
+.history-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 10px 10px 0;
+  background-color: #409e21;
+  width: 165px;
+  height: 45px;
+}
+.bet-history {
+  position: absolute;
+  top: 12px;
+  left: 43px;
+  font-weight: 500;
+  display: inline-block;
+  width: 83px;
+}
+.history {
+  position: relative;
+  width: 165px;
+  height: 45px;
+  color: #1d3557;
+}
+.bet-slip-parent {
+  position: absolute;
+  top: 157px;
+  left: calc(50% - 187px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 16px;
+  color: #fff;
+}
+.you-currently-do {
+  margin: 0;
+}
+.you-currently-do-container {
+  position: absolute;
+  top: 450px;
+  left: calc(50% - 146px);
+  font-size: 24px;
+  display: inline-block;
+  color: #6a1f1f;
+  text-align: center;
+  width: 292px;
+}
+.place-a-bet {
+  position: relative;
+  font-weight: 500;
+}
+.place-a-bet-wrapper {
+  position: absolute;
+  top: 600px;
+  left: calc(50% - 61px);
+  border-radius: 10px;
+  background-color: #397ee6;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+  font-size: 20px;
+  color: #f1faee;
+}
+.iphone-14-pro-max-5 {
+  position: relative;
+  border-radius: 20px;
+  background-color: #e4ebfd;
+  width: 430px;
+  height: 932px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 10px;
+  color: #1d3557;
+  font-family: Exo;
+}
+.dashiconsgames-container,
+.icon-menu-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icon-menu-container {
+  position: absolute;
+  top: 30px;
+  left: calc(50% - 203px);
+  flex-direction: row;
+  gap: 16px;
+  font-size: 10px;
+  font-family: Inter;
+}
+.dashiconsgames-container {
+  width: 28.92px;
+  flex-direction: column;
+  gap: 2px;
+}
+.frame-parent3,
+.my-bets4 {
+  position: absolute;
+  color: #1d3557;
+}
+.frame-parent3 {
+  top: 889px;
+  left: calc(50% - 183px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 77px;
+  font-size: 10px;
+}
+.my-bets4 {
+  top: 111px;
+  left: 25px;
+  font-size: 20px;
+  font-family: "Exo 2";
+}
+.bet-slip-item,
+.history-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px 0 0 10px;
+  background-color: #409e21;
+  width: 165px;
+  height: 45px;
+}
+.history-item {
+  border-radius: 0 10px 10px 0;
+  background-color: #00362d;
+}
+.history1 {
+  position: relative;
+  width: 165px;
+  height: 45px;
+  color: #fff;
+}
+.bet-slip-group {
+  position: absolute;
+  top: 157px;
+  left: calc(50% - 187px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.iphone-14-pro-max-6-child1,
+.iphone-14-pro-max-6-child2,
+.iphone-14-pro-max-6-inner,
+.iphone-14-pro-max-6-item {
+  position: absolute;
+  top: 289px;
+  left: 38px;
+  border-radius: 20px;
+  background-color: #fff;
+  width: 348px;
+  height: 46px;
+}
+.iphone-14-pro-max-6-child1,
+.iphone-14-pro-max-6-child2,
+.iphone-14-pro-max-6-inner {
+  top: 365px;
+}
+.iphone-14-pro-max-6-child1,
+.iphone-14-pro-max-6-child2 {
+  top: 441px;
+}
+.iphone-14-pro-max-6-child2 {
+  top: 517px;
+}
+.download-removebg-preview-21 {
+  position: absolute;
+  top: 295px;
+  left: 47.5px;
+  width: 42.01px;
+  height: 40px;
+  object-fit: cover;
+}
+.healthiconsmoney-bag {
+  position: absolute;
+  top: 297px;
+  left: 349.5px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.download-removebg-preview-11 {
+  position: absolute;
+  top: 370px;
+  left: 44px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.healthiconsmoney-bag1 {
+  position: absolute;
+  top: 373px;
+  left: 351px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.download-3-icon1 {
+  position: absolute;
+  top: 445px;
+  left: 45.9px;
+  border-radius: 15px;
+  width: 39.2px;
+  height: 40px;
+  object-fit: cover;
+}
+.healthiconsmoney-bag2 {
+  position: absolute;
+  top: 450px;
+  left: 352.1px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.download-emf3dfb8t-transformed-icon1 {
+  position: absolute;
+  top: 520px;
+  left: 45.95px;
+  width: 33.09px;
+  height: 42px;
+  object-fit: cover;
+}
+.healthiconsmoney-bag3 {
+  position: absolute;
+  top: 526px;
+  left: 353.05px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.april,
+.april1,
+.january,
+.march {
+  position: absolute;
+  top: 304px;
+  left: 102px;
+  font-weight: 500;
+}
+.april,
+.april1,
+.march {
+  top: 380px;
+}
+.april,
+.april1 {
+  top: 450px;
+  left: 110px;
+}
+.april1 {
+  top: 520px;
+  left: 111px;
+}
+.iphone-14-pro-max-6 {
+  position: relative;
+  border-radius: 20px;
+  background-color: #ccd9fa;
+  width: 430px;
+  height: 932px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-family: Exo;
+}
+.ellipse-icon {
+  position: relative;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.id-8883346 {
+  position: relative;
+  font-size: 14px;
+  color: #1d3557;
+}
+.jason-holder-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ellipse-container {
+  position: absolute;
+  top: 120px;
+  left: 26px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  font-size: 20px;
+  color: #112f59;
+  font-family: Exo;
+}
+.iphone-14-pro-max-7-item {
+  position: absolute;
+  top: 188px;
+  left: calc(50% - 175px);
+  background-color: #20169d;
+  width: 350px;
+  height: 1px;
+}
+.div {
+  position: relative;
+  font-size: 24px;
+  font-weight: 600;
+  color: #0a8992;
+}
+.available-balance-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 11px;
+}
+.frame-parent5 {
+  position: absolute;
+  top: 211px;
+  left: calc(50% - 169px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 37px;
+  font-size: 14px;
+  color: #1d3557;
+  font-family: Exo;
+}
+.group-child13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 30px;
+  background-color: #fff;
+  width: 147px;
+  height: 96px;
+}
+.uilmoney-withdraw-icon {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.uilmoney-withdraw-parent {
+  position: absolute;
+  top: 13px;
+  left: 39px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.rectangle-parent13 {
+  position: relative;
+  width: 147px;
+  height: 96px;
+}
+.uilmoney-withdraw-group {
+  position: absolute;
+  top: 16px;
+  left: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.group-parent4 {
+  position: absolute;
+  top: 313px;
+  left: calc(50% - 158px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 22px;
+  font-size: 20px;
+  color: #1d3557;
+  font-family: Exo;
+}
+.iphone-14-pro-max-7-child1,
+.iphone-14-pro-max-7-child2,
+.iphone-14-pro-max-7-child3,
+.iphone-14-pro-max-7-inner {
+  position: absolute;
+  top: 425px;
+  left: 29px;
+  border-radius: 20px;
+  background-color: #fff;
+  width: 372px;
+  height: 40px;
+}
+.iphone-14-pro-max-7-child1,
+.iphone-14-pro-max-7-child2,
+.iphone-14-pro-max-7-child3 {
+  top: 496px;
+}
+.iphone-14-pro-max-7-child2,
+.iphone-14-pro-max-7-child3 {
+  top: 567px;
+}
+.iphone-14-pro-max-7-child3 {
+  top: 638px;
+}
+.iphone-14-pro-max-7-child4,
+.iphone-14-pro-max-7-child5,
+.iphone-14-pro-max-7-child6,
+.iphone-14-pro-max-7-child7 {
+  position: absolute;
+  top: 709px;
+  left: 29px;
+  border-radius: 20px;
+  background-color: #fff;
+  width: 372px;
+  height: 40px;
+}
+.iphone-14-pro-max-7-child5,
+.iphone-14-pro-max-7-child6,
+.iphone-14-pro-max-7-child7 {
+  top: 780px;
+}
+.iphone-14-pro-max-7-child6,
+.iphone-14-pro-max-7-child7 {
+  top: 851px;
+}
+.iphone-14-pro-max-7-child7 {
+  top: 922px;
+}
+.angle-right-icon,
+.angle-right-icon1,
+.angle-right-icon2 {
+  position: absolute;
+  top: 432px;
+  left: 373px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.angle-right-icon1,
+.angle-right-icon2 {
+  top: 503px;
+  left: 376px;
+}
+.angle-right-icon2 {
+  top: 574px;
+  left: 373px;
+}
+.angle-right-icon3,
+.angle-right-icon4,
+.angle-right-icon5,
+.angle-right-icon6 {
+  position: absolute;
+  top: 645px;
+  left: 375px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.angle-right-icon4,
+.angle-right-icon5,
+.angle-right-icon6 {
+  top: 716px;
+}
+.angle-right-icon5,
+.angle-right-icon6 {
+  top: 787px;
+}
+.angle-right-icon6 {
+  top: 858px;
+  left: 377px;
+}
+.personal-profile {
+  position: relative;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 148px;
+  flex-shrink: 0;
+}
+.icon-person-parent {
+  position: absolute;
+  top: 435px;
+  left: 36px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  font-size: 16px;
+}
+.icon-bar-chart {
+  position: relative;
+  width: 22.86px;
+  height: 20px;
+}
+.icon-bar-chart-parent {
+  position: absolute;
+  top: 506px;
+  left: 39px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.icon-chevron-right {
+  position: relative;
+  width: 17.19px;
+  height: 25px;
+}
+.icon-chevron-right-parent {
+  position: absolute;
+  top: 574px;
+  left: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.icon-heart {
+  position: relative;
+  width: 23.46px;
+  height: 20px;
+}
+.icon-heart-parent {
+  position: absolute;
+  top: 650px;
+  left: 39px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.icon-dollar {
+  position: relative;
+  width: 12.51px;
+  height: 20px;
+}
+.icon-dollar-parent {
+  position: absolute;
+  top: 719px;
+  left: 39px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.icon-paperclip {
+  position: relative;
+  width: 17.46px;
+  height: 20px;
+}
+.icon-paperclip-parent {
+  position: absolute;
+  top: 790px;
+  left: 39px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.icon-credit-card {
+  position: relative;
+  width: 26.67px;
+  height: 20px;
+}
+.icon-credit-card-parent {
+  position: absolute;
+  top: 861px;
+  left: 39px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.iphone-14-pro-max-7 {
+  position: relative;
+  border-radius: 20px;
+  background-color: #ccd9fa;
+  width: 430px;
+  height: 932px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 15px;
+}
+.group-child15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #d9d9d9;
+  width: 225px;
+  height: 670px;
+}
+.icon-person-group {
+  font-size: 16px;
+}
+.icon-bar-chart-group,
+.icon-person-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.icon-lock-locked3 {
+  position: relative;
+  width: 17.14px;
+  height: 20px;
+}
+.icon-lock-locked-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.icon-grid-four-up {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.frame-child24,
+.icon-timer,
+.icon-wrench {
+  position: relative;
+  width: 20.03px;
+  height: 20px;
+}
+.frame-child24,
+.icon-timer {
+  width: 17.53px;
+}
+.frame-child24 {
+  border-radius: 50%;
+  background-color: #9b3fc6;
+  width: 10px;
+  height: 10px;
+}
+.icon-fire {
+  position: relative;
+  width: 17.5px;
+  height: 20px;
+}
+.frame-parent6 {
+  position: absolute;
+  top: 41px;
+  left: 17px;
+  height: 582px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+}
+.icon-x-letter {
+  position: absolute;
+  height: 2.99%;
+  width: 8.89%;
+  top: 1.94%;
+  right: 6.67%;
+  bottom: 95.07%;
+  left: 84.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent15 {
+  position: relative;
+  width: 225px;
+  height: 670px;
+  font-size: 15px;
+}
+.iphone-14-pro-max-1-parent {
+  position: absolute;
+  top: 169px;
+  left: calc(50% - 215px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 314px;
+}
+.betting-app {
+  position: relative;
+  background-color: #131632;
+  width: 100%;
+  height: 9743px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Inter;
+}
